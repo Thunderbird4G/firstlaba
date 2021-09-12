@@ -1,0 +1,5 @@
+﻿  Module.ixx
+C:\Users\Илья\source\repos\Task5_main.c\Task5_main.c\Module.ixx(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Task5_func.cpp
+  Создание кода...
+  Task5_main.c.vcxproj -> C:\Users\Илья\source\repos\Task5_main.c\Debug\Task5_main.c.exe
