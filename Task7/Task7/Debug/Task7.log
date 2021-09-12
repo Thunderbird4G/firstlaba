@@ -1,0 +1,5 @@
+﻿  task7_func.cpp
+  Task7_main.cpp
+C:\Users\Илья\source\repos\Task7\Task7\Task7_main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Task7.vcxproj -> C:\Users\Илья\source\repos\Task7\Debug\Task7.exe
